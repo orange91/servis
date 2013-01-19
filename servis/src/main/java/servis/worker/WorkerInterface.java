@@ -1,5 +1,5 @@
 package servis.worker;
 
-public class WorkerInterface {
+public interface WorkerInterface {
 
 }
